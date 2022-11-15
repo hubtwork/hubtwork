@@ -1,4 +1,4 @@
-- [![I'm @hubtwork](https://github-readme-stats.vercel.app/api?username=hubtwork&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/hubtwork)
+[![I'm @hubtwork](https://github-readme-stats.vercel.app/api?username=hubtwork&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/hubtwork)
 
 
 <!---
